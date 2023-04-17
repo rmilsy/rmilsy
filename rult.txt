@@ -1,1 +1,1 @@
-freeopenai.xyz
+- DOMAIN-SUFFIX,freeopenai.xyz,代理
